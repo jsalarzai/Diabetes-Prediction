@@ -12,7 +12,6 @@ The data is a part of Pima Indians Diabetes Database a dataset, a popular datase
 
 `Each row represents a medical case, and each column represents a different feature or characteristic of the case:`
 
-> [!Features]
 > **Pregnancies:** Number of times the individual has been pregnant.<br/>
 > **Glucose:** Plasma glucose concentration over 2 hours in an oral glucose tolerance test.<br/>
 > **BloodPressure:** Diastolic blood pressure (mm Hg).<br/>
