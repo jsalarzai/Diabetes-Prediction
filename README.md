@@ -17,6 +17,16 @@ The data is a part of `Pima Indians Diabetes Database` dataset, a popular datase
 > **DiabetesPedigreeFunction:** Diabetes pedigree function, a function which scores likelihood of diabetes based on family history.<br/>
 > **Age:** Age (years).<br/>
 
+```python
+# BMI Formula: BMI = weight (kg) / (height (m) ^ 2)
+
+weight_kg = 70  # Weight in kilograms
+height_m = 1.75  # Height in meters
+
+bmi = weight_kg / (height_m ** 2)
+bmi
+```
+
 <br/>
 
 **Outcome:** Class variable (0 or 1), where '1' denotes the patient has diabetes and '0' denotes they do not.<br/>
