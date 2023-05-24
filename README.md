@@ -8,14 +8,14 @@ The data is a part of `Pima Indians Diabetes Database` dataset, a popular datase
 
 #### Feature Descriptions
 
-> Pregnancies: Number of times the individual has been pregnant.
-> Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test.
-> BloodPressure: Diastolic blood pressure (mm Hg).
-> SkinThickness: Triceps skin fold thickness (mm).
-> Insulin: 2-Hour serum insulin (mu U/ml).
-> BMI: Body mass index (weight in kg/(height in m)^2).
-> DiabetesPedigreeFunction: Diabetes pedigree function, a function which scores likelihood of diabetes based on family history.
-> Age: Age (years).
+> Pregnancies: Number of times the individual has been pregnant.<br/>
+> Glucose: Plasma glucose concentration over 2 hours in an oral glucose tolerance test.<br/>
+> BloodPressure: Diastolic blood pressure (mm Hg).<br/>
+> SkinThickness: Triceps skin fold thickness (mm).<br/>
+> Insulin: 2-Hour serum insulin (mu U/ml).<br/>
+> BMI: Body mass index (weight in kg/(height in m)^2).<br/>
+> DiabetesPedigreeFunction: Diabetes pedigree function, a function which scores likelihood of diabetes based on family history.<br/>
+> Age: Age (years).<br/>
 
 ```python
 # BMI Formula: BMI = weight (kg) / (height (m) ^ 2)
