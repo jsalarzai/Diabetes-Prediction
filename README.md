@@ -8,7 +8,7 @@ The data is a part of `Pima Indians Diabetes Database` dataset, a popular datase
 
 #### Feature Descriptions
 
-> **Pregnancies:** Number of times the individual has been pregnant.<br/>
+> `**Pregnancies:**` Number of times the individual has been pregnant.<br/>
 > **Glucose:** Plasma glucose concentration over 2 hours in an oral glucose tolerance test.<br/>
 > **BloodPressure:** Diastolic blood pressure (mm Hg).<br/>
 > **SkinThickness**: Triceps skin fold thickness (mm).<br/>
