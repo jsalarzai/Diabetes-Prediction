@@ -8,7 +8,7 @@ Diabetes Prediction using Machine Learning (SVM) with Python.
 
 ### Data Description
 
-The data is a part of Pima Indians Diabetes Database a dataset, a popular dataset, related to diabetes. It is used in machine learning and data mining demonstrations.<br/>
+The data is a part of `Pima Indians Diabetes Database` dataset, a popular dataset, related to diabetes. It is used in machine learning and data mining demonstrations.<br/>
 
 `Each row represents a medical case, and each column represents a different feature or characteristic of the case:`
 
