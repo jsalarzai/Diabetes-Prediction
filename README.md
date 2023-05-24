@@ -27,4 +27,4 @@ The data is a part of Pima Indians Diabetes Database a dataset, a popular datase
 
 <br/>
 
-The data you have given includes five cases, or rows. For each case, we have the aforementioned characteristics. For instance, the first patient has had 6 pregnancies, a glucose level of 148, blood pressure of 72, skin thickness of 35, an insulin level of 0, BMI of 33.6, Diabetes Pedigree Function of 0.627, age of 50, and has diabetes (since the outcome is 1).
+`The data includes five cases, or rows. For each case, It has aforementioned characteristics. For instance, the first patient has had 6 pregnancies, a glucose level of 148, blood pressure of 72, skin thickness of 35, an insulin level of 0, BMI of 33.6, Diabetes Pedigree Function of 0.627, age of 50, and has diabetes (since the outcome is 1).`
